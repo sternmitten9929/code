@@ -8,10 +8,12 @@ import Profile from './components/profile/profile'
 import Test from './components/test/test'
 import Contact from './components/contact/contact'
 import Footer from './components/footer/footer'
+import Time from './components/Time/time'
 
 const App = () => {
   return (
     <>
+      <Time/>
       <Header/>
       <Nav/>
       <About/>

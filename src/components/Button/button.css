@@ -1,0 +1,7 @@
+.click { 
+    background-color: var(--color-primary);
+}
+
+.btn_btn-primary {
+    color: var(--color-primary);
+}

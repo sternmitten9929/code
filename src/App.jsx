@@ -9,6 +9,7 @@ import Test from './components/test/test'
 import Contact from './components/contact/contact'
 import Footer from './components/footer/footer'
 import Time from './components/Time/time'
+import Button from './components/Button/Button'
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Test/>
       <Contact/>
       <Footer/>
+      <Button/>
     </>
   )
 }
